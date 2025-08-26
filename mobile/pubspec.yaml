@@ -67,7 +67,7 @@ flutter:
   fonts:
     - family: PixelFont
       fonts:
-        - asset: assets/fonts/PixelifySans-VariableFont_wght.ttf
+        - asset: assets/fonts/upheavtt.ttf
           weight: 700
 
   # To add assets to your application, add an assets section, like this:
